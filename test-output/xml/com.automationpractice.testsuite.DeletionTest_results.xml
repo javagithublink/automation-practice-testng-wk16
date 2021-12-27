@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Automation Practice Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="46.388">
+  <properties />
+  
+  
+            <testcase name="userShouldBeAbleToDeleteAnItemFromBasket" time="46.388" classname="com.automationpractice.testsuite.DeletionTest" />
+      
+</testsuite>
